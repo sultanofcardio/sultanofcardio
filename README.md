@@ -10,8 +10,8 @@ I'm just a web developer trying to find my way in the world. I'm passionate abou
 
 ### 🌱 I’m currently learning
 
-- <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="TypeScript icon" width="15px"> TypeScript
 - <img src="https://testing-library.com/img/octopus-64x64.png" alt="Testing Library icon" width="15px"> React Testing Library
+- <img src="https://iconape.com/wp-content/files/ec/371378/svg/371378.svg" alt="React icon" width="15px"> React Native
 -  💪 How to be a better developer than I was yesterday
 
 ### ⚡ One line that describes me best?
