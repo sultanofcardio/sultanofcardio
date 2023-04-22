@@ -1,27 +1,7 @@
 ## Hi there 👋
 
-I'm just a web developer trying to find my way in the world. I'm passionate about solving real-world problems, but I don't always finish my side projects. I'm also passionate about open source technology and endeavour to make as much of my code as I can open for anyone to use.
+I'm Kenroy (he/him), a web developer trying to find my way in the world. I'm passionate about solving real-world problems, but I don't always finish my side projects. I'm also passionate about open source technology and endeavour to make as much of my code as I can open for anyone to use.
 
-### 🛠️ Cool things I've worked on
+I love learning and helping other people.
 
-[<img src="https://user-images.githubusercontent.com/14842108/145486773-bb993a5a-19ee-428e-b5dd-ff6f202dd893.png" width="320px" alt="Curfew JA">](https://curfewja.com)
-
-[<img src="https://user-images.githubusercontent.com/14842108/145486956-03062359-9fc4-4ed3-be91-cba9850b7cec.png" width="320px" alt="OpenAPI Ktor">](https://github.com/sultanofcardio/openapi-ktor)
-
-### 🌱 I’m currently learning
-
-- <img src="https://testing-library.com/img/octopus-64x64.png" alt="Testing Library icon" width="15px"> React Testing Library
-- <img src="https://iconape.com/wp-content/files/ec/371378/svg/371378.svg" alt="React icon" width="15px"> React Native
--  💪 How to be a better developer than I was yesterday
-
-### ⚡ One line that describes me best?
-
-I like learning and helping people
-
-### 📫 How to reach me
-
-- I'm [@sultanofcardio](https://twitter.com/sultanofcardio) on Twitter
-
-### 😄 Pronouns
-
-He/Him
+I'm [@sultanofcardio](https://twitter.com/sultanofcardio) on Twitter
